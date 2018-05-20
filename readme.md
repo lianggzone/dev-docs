@@ -17,11 +17,11 @@
 ## 问题反馈
 【邮箱】 lianggzone@163.com
 
-## 技术债卷
-- 页面代码重构，Vue.js v2.0
-- 静态代码生成器，改造
-
 ## Recent Releases
-2016-10-22 v2.0 代码移植Github
+- 2018-05-20 v2.1 更新仓库
+- 2016-10-22 v2.0 代码移植Github
+
+## 邀请交流
+![](http://7xivgs.com1.z0.glb.clouddn.com/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%8E%A8%E9%80%8102.png)
 
  
